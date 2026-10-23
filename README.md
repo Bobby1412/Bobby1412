@@ -2,7 +2,7 @@
 
 # Hey, I'm Amkshit 👋
 
-**Computer Science Undergraduate · Class of 2027**  
+**Computer Science Undergraduate · 2027**  
 **Full-Stack Development | Python | Cloud & DevOps**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bobby1412-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bobby1412)
