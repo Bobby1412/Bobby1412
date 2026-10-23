@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Amkshit Goud 👋
+# Hii, I'm Amkshit 👋
 
 ### Computer Science Undergraduate · Full-Stack Development · Cloud & DevOps
 
